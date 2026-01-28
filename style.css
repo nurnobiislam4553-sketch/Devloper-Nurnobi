@@ -81,6 +81,9 @@ body {
   .nav_tag.active {
     left: 0;
   }
+  .menu-toggle{
+    margin-right: 50px;
+  }
 }
 
 /* home_secton */
@@ -562,6 +565,12 @@ body {
   .navber .nav_tag a {
     margin-right: -10px;
     font-size: 13px;
+  }
+    .navber .logo{
+    margin-left: -30px;
+  }
+  .navber .logo h1{
+    font-size: 30px;
   }
   .home {
     display: flex;
