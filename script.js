@@ -29,7 +29,7 @@ document.body.appendChild(scrollBtn);
 // Button style (JS দিয়েই)
 scrollBtn.style.position = 'fixed';
 scrollBtn.style.bottom = '30px';
-scrollBtn.style.right = '30px';
+scrollBtn.style.right = '50px';
 scrollBtn.style.width = '45px';
 scrollBtn.style.height = '45px';
 scrollBtn.style.background = '#9d39f4';
